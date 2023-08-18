@@ -7,10 +7,10 @@ dashedName: challenge-project-debug-a-c-sharp-console-application-using-visual-s
 
 # --description--
 
-This challenge will be partially completed on Microsoft's learn platform. Follow these instructions to complete the challenge:
+Це завдання буде частково виконано на навчальній платформі Microsoft. Дотримуйтесь цих інструкцій, щоб виконати завдання:
 
-1. Go to <a href="https://learn.microsoft.com/en-us/training/modules/challenge-project-debug-c-sharp-console-application/" target="_blank">https://learn.microsoft.com/en-us/training/modules/challenge-project-debug-c-sharp-console-application/</a> and complete all the tasks for the "Challenge Project - Debug a C# Console Application Using Visual Studio Code" module. This is required to earn the "Debug C# Console Applications" trophy.
-1. When you are finished, come back and correctly answer the question below.
+1. Go to <a href="https://learn.microsoft.com/en-us/training/modules/challenge-project-debug-c-sharp-console-application/" target="_blank">https://learn.microsoft.com/en-us/training/modules/challenge-project-debug-c-sharp-console-application/</a> and complete all the tasks for the "Challenge Project - Debug a C# Console Application Using Visual Studio Code" module. Це обов’язково, щоб отримати трофей «Налагодження консольних застосунків C#».
+1. Як тільки завершите, поверніться та дайте правильну відповідь на запитання нижче.
 
 # --question--
 

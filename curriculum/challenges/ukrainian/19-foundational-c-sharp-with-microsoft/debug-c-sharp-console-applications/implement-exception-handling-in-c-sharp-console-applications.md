@@ -7,10 +7,10 @@ dashedName: implement-exception-handling-in-c-sharp-console-applications
 
 # --description--
 
-This challenge will be partially completed on Microsoft's learn platform. Follow these instructions to complete the challenge:
+Це завдання буде частково виконано на навчальній платформі Microsoft. Дотримуйтесь цих інструкцій, щоб виконати завдання:
 
-1. Go to <a href="https://learn.microsoft.com/en-us/training/modules/implement-exception-handling-c-sharp/" target="_blank">https://learn.microsoft.com/en-us/training/modules/implement-exception-handling-c-sharp/</a> and complete all the tasks for the "Implement Exception Handling in C# Console Applications" module. This is required to earn the "Debug C# Console Applications" trophy.
-1. When you are finished, come back and correctly answer the question below.
+1. Go to <a href="https://learn.microsoft.com/en-us/training/modules/implement-exception-handling-c-sharp/" target="_blank">https://learn.microsoft.com/en-us/training/modules/implement-exception-handling-c-sharp/</a> and complete all the tasks for the "Implement Exception Handling in C# Console Applications" module. Це обов’язково, щоб отримати трофей «Налагодження консольних застосунків C#».
+1. Як тільки завершите, поверніться та дайте правильну відповідь на запитання нижче.
 
 # --question--
 

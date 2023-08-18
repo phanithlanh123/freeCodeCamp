@@ -7,10 +7,10 @@ dashedName: convert-data-types-using-casting-and-conversion-techniques-in-c-shar
 
 # --description--
 
-This challenge will be partially completed on Microsoft's learn platform. Follow these instructions to complete the challenge:
+Це завдання буде частково виконано на навчальній платформі Microsoft. Дотримуйтесь цих інструкцій, щоб виконати завдання:
 
-1. Go to <a href="https://learn.microsoft.com/en-us/training/modules/csharp-convert-cast/" target="_blank">https://learn.microsoft.com/en-us/training/modules/csharp-convert-cast/</a> and complete all the tasks for the "Convert Data Types Using Casting and Conversion Techniques in C#" module. This is required to earn the "Work with Variable Data in C# Console Applications" trophy.
-1. When you are finished, come back and correctly answer the question below.
+1. Go to <a href="https://learn.microsoft.com/en-us/training/modules/csharp-convert-cast/" target="_blank">https://learn.microsoft.com/en-us/training/modules/csharp-convert-cast/</a> and complete all the tasks for the "Convert Data Types Using Casting and Conversion Techniques in C#" module. Це обов’язково, щоб отримати трофей «Робота з даними змінних в консольних застосунках C#».
+1. Як тільки завершите, поверніться та дайте правильну відповідь на запитання нижче.
 
 # --question--
 
